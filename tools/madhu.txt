@@ -1,0 +1,10 @@
+Titanic, Romance, James Cameron
+Interstellar, Sci-Fi, Christopher Nolan
+Goodfellas, Crime/Thriller, Martin Scorsese
+The Shawshank Redemption, Drama, Frank Darabont
+Inception, Sci-Fi/Thriller, Christopher Nolan
+Pulp Fiction, Crime/Drama, Quentin Tarantino
+The Dark Knight, Action/Crime, Christopher Nolan
+Forrest Gump, Drama/Romance, Robert Zemeckis
+The Godfather, Crime/Drama, Francis Ford Coppola
+Fight Club, Drama/Thriller, David Fincher
